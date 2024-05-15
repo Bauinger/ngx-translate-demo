@@ -1,0 +1,16 @@
+{
+    "demo": {
+        "greeting": "",
+        "text": "",
+        "title": ""
+    },
+    "icu": {
+        "pluralization": "",
+        "select": ""
+    },
+    "messagebox": {
+        "warning": {
+            "text": "He oida warnung!!"
+        }
+    }
+}
