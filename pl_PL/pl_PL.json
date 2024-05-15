@@ -1,0 +1,16 @@
+{
+    "demo": {
+        "greeting": "Witaj {name}!",
+        "text": "Jest to prosta aplikacja demonstrująca funkcje ngx-transalte.",
+        "title": "Tłumaczenie demo"
+    },
+    "icu": {
+        "pluralization": "Tam {count, plural, =0{nie ma jabłka} one{jest jabłko} other{jest kilka jabłek}}.",
+        "select": "{gender, select, male{On używa} female{Ona używa} other{Ty używasz }} {product} ."
+    },
+    "messagebox": {
+        "warning": {
+            "text": "Ostrzeżenie!"
+        }
+    }
+}
